@@ -12,7 +12,7 @@ if (numeroUm !== stringUm){
 }
 
 
-if (numeroTrinta !== stringTrinta){
+if (numeroTrinta == stringTrinta){
     console.log('As variáveis numeroTrinta e stringTrinta tem o mesmo valor, mas são de tipos diferentes')
 } else{
     console.log('As variavéis numeroTrinta e stringTrinta não tem o mesmo valor')
@@ -24,3 +24,6 @@ if (numeroDez !== stringDez){
 } else{
     console.log('As variavéis numeroDez e stringDez não tem o mesmo valor')
 }
+
+
+
